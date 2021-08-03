@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![icehoneypark's GitHub stats](https://github-readme-stats.vercel.app/api?username=icehoneypark&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![icehoneypark's GitHub stats](https://github-readme-stats.vercel.app/api?username=icehoneypark&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
